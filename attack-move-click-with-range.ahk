@@ -2,9 +2,9 @@
 
 
 $CapsLock::{
-    SendInput "{Blind}{Shift Down}{\ Down}"
+    SendInput "{Blind}{Shift Down}{c Down}"
     KeyWait "CapsLock"
-    SendInput "{Blind}{Shift Up}{\ Up}"
+    SendInput "{Blind}{Shift Up}{c Up}"
     return
 }
     
