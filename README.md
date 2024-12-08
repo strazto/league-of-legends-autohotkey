@@ -5,9 +5,19 @@ so you can see a range indicator before you **Attack Move Click**.
 
 I've bound it to `Capslock` since it's easy to reach and underutilized.
 
+## Installation / Usage
+
+1. Install [AutoHotkey](https://www.autohotkey.com/). 
+1. Run the script.
+1. Verify it works by clicking on a text field (notepad, the URL bar etc) and pressing `Capslock`.
+   The letter `C` (capital) should appear instead.
+
+You'll need to make sure this is running whenever you play league, so maybe set up an easy shortcut.
+
 ## Demo
 
-Demo video showcasing exploiting a range based matchup between Caitlyn and Lucian. 
+Demo video showcasing using the indicator to capitalize on the
+range advantage in a Caitlyn / Lucian matchup:
 
 https://github.com/user-attachments/assets/94d8b915-90f6-4cde-9f91-fd53b634bed4
 
